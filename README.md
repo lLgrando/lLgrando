@@ -3,7 +3,10 @@
 <br>
 
 - 🔭 Em busca da primeira oportunidade de emprego na área.
-- 🌱 Estou estudando front-end: HTML, CSS, Javascript, Nodejs e Vuejs. Mas meu interesse é amplo, e procuro conhecer sobre back-end e bancos de dados também.
+- 🌱 Atualmente, estou estudando a plataforma .NET com C#. 
+- 🌱 Conhecimentos em HTML, CSS, Javascript, Nodejs e Vuejs.
+ 
+Meu interesse é amplo, estou sempre em busca de entender como funciona uma aplicação completa. Procuro conhecer sobre back, front e bancos de dados também.
 
  
 
