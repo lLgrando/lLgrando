@@ -2,9 +2,9 @@
 
 <br>
 
-- 🔭 Em busca da primeira oportunidade de emprego na área.
-- 🌱 Atualmente, estou estudando a plataforma .NET com C#. 
-- 🌱 Conhecimentos em HTML, CSS, Javascript, Nodejs e Vuejs.
+- 🔭 Em busca da primeira oportunidade na área de desenvolvimento Backend.
+- 🌱 Atualmente, estou estudando Java, Spring e Postgree. 
+- 🌱 Tenho conhecimentos em HTML, CSS, Javascript, Nodejs e Vuejs.
  
 Meu interesse é amplo, estou sempre em busca de entender como funciona uma aplicação completa. Procuro conhecer sobre back, front e bancos de dados também.
 
