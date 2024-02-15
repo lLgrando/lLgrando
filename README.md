@@ -3,8 +3,8 @@
 <br>
 
 - Atualmente, trabalho como Analista de Suporte;
-- Estou em busca da primeira oportunidade como DEV;
-- Tenho conhecimentos em HTML, CSS, Javascript, Nodejs, PHP, MySQL, Linux, GIT e Docker;
+- Estou em busca da primeira oportunidade como desenvolvedor;
+- Tenho conhecimentos em HTML, CSS, Javascript, Nodejs, PHP, Vue, Tailwind, Vuetify, MySQL, Linux, GIT e Docker;
 - Também tenho conhecimento em ferramentas de observabilidade e monitoramento, como Grafana e Prometheus.
  
 Meu interesse é amplo, estou sempre em busca de entender como funciona uma aplicação completa. Procuro conhecer sobre back, front e bancos de dados também.
