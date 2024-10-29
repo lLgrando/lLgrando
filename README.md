@@ -2,14 +2,14 @@
 
 <br>
 
-- Atualmente, trabalho como Analista de Suporte;
-- Estou em busca da primeira oportunidade como desenvolvedor;
-- Tenho conhecimentos em HTML, CSS, Javascript, Nodejs, PHP, Vue, Tailwind, Vuetify, MySQL, Linux, GIT e Docker;
-- Também tenho conhecimento em ferramentas de observabilidade e monitoramento, como Grafana e Prometheus.
- 
-Meu interesse é amplo, estou sempre em busca de entender como funciona uma aplicação completa. Procuro conhecer sobre back, front e bancos de dados também.
+- Looking for opportunities as a Linux Systems Administrator (or related);
+- Knowledge of Linux, Ansible, Nginx, MySQL, Grafana, Git, PHP, HTML, CSS and Wordpres;
+- Experience working as Technical Support in one of the largest hosting companies in Brazil.
 
- 
+I consider myself an analytical thinker with a proactive and self-motivated approach; quick learner; very well organized and detail-oriented;
+
+- Currently living in Germany;
+- Languages: Portuguese (native), English (advanced), Spanish (basic), German (beginner - studying).
 
 <br>
-🗣 Me adicione no <a href="https://www.linkedin.com/in/leonardo-manica-grando-9a62a9b1/">Linkedin</a> para conversarmos.
+🗣 Contact me on <a href="https://www.linkedin.com/in/leonardo-manica-grando-9a62a9b1/">Linkedin</a>.
